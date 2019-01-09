@@ -1,0 +1,9 @@
+hello
+
+git clone
+git checkout --->1
+git add -A
+git commit -m "" 
+git push origin de/mas
+
+git status
